@@ -7,7 +7,7 @@ a {
   color: #436A87;
 }
 
-h1{
+.greeting h1{
   text-align: center;
   font-family: 'Nunito Sans', sans-serif;
 }
@@ -30,6 +30,7 @@ main{
 
 .logo{
   color: white;
+  line-height: 45px;
 }
 
 .header ul {
@@ -168,6 +169,7 @@ h1 {
 .bio p {
 color: #2B2B2B ;
 text-align: left;
+/* font-family: Nunito sans; */
 }
 
 /* divider */
@@ -181,6 +183,13 @@ text-align: left;
   background: black;
 }
 
+
+
+
+
+
+
+
 /* Projects */
 .projects{
   font-family: 'Nunito Sans', sans-serif;
@@ -192,7 +201,12 @@ text-align: left;
   color:  #2B2B2B;
 }
 
+
+
+
 /* Quiz APP */
+
+
 .projects h3 {
   text-align: left;
   color:  #2B2B2B;
@@ -224,6 +238,11 @@ text-align: left;
   display: flex;
   justify-content: center;
 }
+
+/* Footer */
+
+
+
 
 
 /* 48em = 768px */
