@@ -17,7 +17,6 @@ main{
 }
 
 /* header */
-
 .header {
   font-family: 'Halant', serif;
   background-color: #1F465F;
@@ -64,7 +63,6 @@ main{
 }
 
 /* menu */
-
 .header .menu {
   clear: both;
   max-height: 0;
@@ -72,7 +70,6 @@ main{
 }
 
 /* menu icon */
-
 .header .menu-icon {
   cursor: pointer;
   display: inline-block;
@@ -168,7 +165,6 @@ h1 {
 .bio p {
 color: #2B2B2B ;
 text-align: left;
-/* font-family: Nunito sans; */
 }
 
 /* divider */
@@ -182,13 +178,6 @@ text-align: left;
   background: black;
 }
 
-
-
-
-
-
-
-
 /* Projects */
 .projects{
   font-family: 'Nunito Sans', sans-serif;
@@ -200,12 +189,7 @@ text-align: left;
   color:  #2B2B2B;
 }
 
-
-
-
 /* Quiz APP */
-
-
 .projects h3 {
   text-align: left;
   color:  #2B2B2B;
@@ -237,12 +221,6 @@ text-align: left;
   display: flex;
   justify-content: center;
 }
-
-/* Footer */
-
-
-
-
 
 /* 48em = 768px */
 
