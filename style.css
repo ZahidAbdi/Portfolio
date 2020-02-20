@@ -61,7 +61,6 @@ main{
   text-decoration: none;
   position: fixed;
   top: 0;
-  width: 100%;
 }
 
 /* menu */
@@ -183,13 +182,6 @@ text-align: left;
   background: black;
 }
 
-
-
-
-
-
-
-
 /* Projects */
 .projects{
   font-family: 'Nunito Sans', sans-serif;
@@ -200,13 +192,7 @@ text-align: left;
   text-align: center;
   color:  #2B2B2B;
 }
-
-
-
-
 /* Quiz APP */
-
-
 .projects h3 {
   text-align: left;
   color:  #2B2B2B;
@@ -239,12 +225,6 @@ text-align: left;
   justify-content: center;
 }
 
-/* Footer */
-
-
-
-
-
 /* 48em = 768px */
 
 @media (min-width: 48em) {
@@ -255,7 +235,10 @@ text-align: left;
   a{
     color: white;
   }
-
+  .header li a:hover,
+  .header .menu-btn:hover {
+  background-color: #436A87;
+}
   .header li a {
     padding: 20px 30px;
   }
